@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BlueRain21/style-hub/static/css/main.32470349.css",
+    "main.js": "/BlueRain21/style-hub/static/js/main.d79392ab.js",
+    "static/media/bg.png": "/BlueRain21/style-hub/static/media/bg.53902d6f3806de1ce5d4.png",
+    "static/media/darkLogo.png": "/BlueRain21/style-hub/static/media/darkLogo.aec40b16a9938a752d80.png",
+    "static/media/lightLogo.png": "/BlueRain21/style-hub/static/media/lightLogo.7d206d0eaee9083a605b.png",
+    "index.html": "/BlueRain21/style-hub/index.html",
+    "main.32470349.css.map": "/BlueRain21/style-hub/static/css/main.32470349.css.map",
+    "main.d79392ab.js.map": "/BlueRain21/style-hub/static/js/main.d79392ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32470349.css",
+    "static/js/main.d79392ab.js"
+  ]
+}
